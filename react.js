@@ -31,6 +31,7 @@ module.exports = {
     "camelcase": "off",
     "react/self-closing-comp": "error",
     "react-refresh/only-export-components": "off",
+    "react-hooks/exhaustive-deps": "off",
     "prettier/prettier": ["error", {
       "printWidth": 120,
       "tabWidth": 2,
